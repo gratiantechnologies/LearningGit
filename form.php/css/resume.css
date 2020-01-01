@@ -1,0 +1,53 @@
+
+body {
+    border-radius: 40px;
+    font-size: 14px;
+    margin: 0 auto;
+    padding: 150px;
+    width: 1050px;
+    display: inline-block;
+}
+.main {
+    background-color: lightgray;
+    padding-top: 35px;
+    padding-bottom: 0px;
+    padding-left: 450px;
+    padding-right: 450px;
+    height: 1000px;
+}
+.part1 {
+    float: right;
+    height: 940px;
+    position: relative;
+    padding-left: 30px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+}
+img {
+    margin: 15px;
+}
+.part2 {
+    width: 70px;
+    height: 940px;
+    position: relative;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: white;
+    
+}
+.name {
+    
+    height: 195px;
+    margin-top: 0px;
+    display: grid;
+    font-size: 20px;
+}
+label {
+    font-size: 20px;
+}
+p {
+    font-size: 12px;
+    display: inline-flex;
+}
+
