@@ -1,0 +1,15 @@
+pull files from repositrory using git gui is:
+   open the tab Tools and choose Add option.
+   enter a name, and as command enter git pull <remote> <branch>
+   
+   add files in git repository using git bash is:
+     1) git init
+	 2) git add . or git add ['filename'] or git add <folder>/*,or even git add *
+	 3) git commit -m "My first File"
+	 4) git remote add origin https://github.com/yourusername/your-repo-name.git
+	 5) git pull origin master
+	 6) git push origin master
+	 
+	 
+	 
+	 
