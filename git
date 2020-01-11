@@ -1,4 +1,4 @@
-pull files from repositrory using git gui is:
+ pull files from repositrory using git gui is:
    open the tab Tools and choose Add option.
    enter a name, and as command enter git pull <remote> <branch>
    
